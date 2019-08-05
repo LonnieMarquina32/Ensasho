@@ -1,0 +1,12 @@
+C:\Users\Alex Marquina\Desktop\Grafica\Grafica\bin\Debug\Grafica.exe.config
+C:\Users\Alex Marquina\Desktop\Grafica\Grafica\bin\Debug\Grafica.exe
+C:\Users\Alex Marquina\Desktop\Grafica\Grafica\bin\Debug\Grafica.pdb
+C:\Users\Alex Marquina\Desktop\Grafica\Grafica\bin\Debug\Grafica.xml
+C:\Users\Alex Marquina\Desktop\Grafica\Grafica\obj\Debug\Grafica Masisa.vbprojAssemblyReference.cache
+C:\Users\Alex Marquina\Desktop\Grafica\Grafica\obj\Debug\Grafica.Form1.resources
+C:\Users\Alex Marquina\Desktop\Grafica\Grafica\obj\Debug\Grafica.Resources.resources
+C:\Users\Alex Marquina\Desktop\Grafica\Grafica\obj\Debug\Grafica Masisa.vbproj.GenerateResource.cache
+C:\Users\Alex Marquina\Desktop\Grafica\Grafica\obj\Debug\Grafica Masisa.vbproj.CoreCompileInputs.cache
+C:\Users\Alex Marquina\Desktop\Grafica\Grafica\obj\Debug\Grafica.exe
+C:\Users\Alex Marquina\Desktop\Grafica\Grafica\obj\Debug\Grafica.xml
+C:\Users\Alex Marquina\Desktop\Grafica\Grafica\obj\Debug\Grafica.pdb

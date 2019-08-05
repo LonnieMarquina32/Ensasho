@@ -1,0 +1,24 @@
+C:\Users\usuario\Desktop\Grafica\Grafica\bin\Debug\Grafica.exe.config
+C:\Users\usuario\Desktop\Grafica\Grafica\bin\Debug\Grafica.exe
+C:\Users\usuario\Desktop\Grafica\Grafica\bin\Debug\Grafica.pdb
+C:\Users\usuario\Desktop\Grafica\Grafica\bin\Debug\Grafica.xml
+C:\Users\usuario\Desktop\Grafica\Grafica\obj\Debug\Grafica.vbprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Grafica\Grafica\obj\Debug\Grafica.Form1.resources
+C:\Users\usuario\Desktop\Grafica\Grafica\obj\Debug\Grafica.Resources.resources
+C:\Users\usuario\Desktop\Grafica\Grafica\obj\Debug\Grafica.vbproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Grafica\Grafica\obj\Debug\Grafica.vbproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Grafica\Grafica\obj\Debug\Grafica.exe
+C:\Users\usuario\Desktop\Grafica\Grafica\obj\Debug\Grafica.xml
+C:\Users\usuario\Desktop\Grafica\Grafica\obj\Debug\Grafica.pdb
+C:\Users\Alex Marquina\Desktop\Grafica\Grafica\bin\Debug\Grafica.exe.config
+C:\Users\Alex Marquina\Desktop\Grafica\Grafica\bin\Debug\Grafica.exe
+C:\Users\Alex Marquina\Desktop\Grafica\Grafica\bin\Debug\Grafica.pdb
+C:\Users\Alex Marquina\Desktop\Grafica\Grafica\bin\Debug\Grafica.xml
+C:\Users\Alex Marquina\Desktop\Grafica\Grafica\obj\Debug\Grafica.vbprojAssemblyReference.cache
+C:\Users\Alex Marquina\Desktop\Grafica\Grafica\obj\Debug\Grafica.Form1.resources
+C:\Users\Alex Marquina\Desktop\Grafica\Grafica\obj\Debug\Grafica.Resources.resources
+C:\Users\Alex Marquina\Desktop\Grafica\Grafica\obj\Debug\Grafica.vbproj.GenerateResource.cache
+C:\Users\Alex Marquina\Desktop\Grafica\Grafica\obj\Debug\Grafica.vbproj.CoreCompileInputs.cache
+C:\Users\Alex Marquina\Desktop\Grafica\Grafica\obj\Debug\Grafica.exe
+C:\Users\Alex Marquina\Desktop\Grafica\Grafica\obj\Debug\Grafica.xml
+C:\Users\Alex Marquina\Desktop\Grafica\Grafica\obj\Debug\Grafica.pdb
